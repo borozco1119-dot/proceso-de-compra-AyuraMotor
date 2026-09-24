@@ -1,2 +1,2 @@
-# proceso-de-compra-AyuraMotor
-Material automatización proceso de compas Ayurá Motors
+# Leer archivo con webscrapping
+Consultar la información y aguardar localmente
